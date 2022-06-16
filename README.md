@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sumsone
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning HTML,CSS,PYTHON.
+- 🌱 I’m currently learning HTML,CSS,PYTHON, generally undergoing a FULLSTACK training.
 - 💞️ I’m looking to collaborate on Programming generally.
 - 📫 How to reach me sufyanmumar@gmail.com.
 
